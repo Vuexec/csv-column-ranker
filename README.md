@@ -2,7 +2,7 @@
 
 # Node.js CSV Processing Script Description
 
-This Node.js script is enhanced to automatically find and process a CSV file in a specified directory, providing insights about the frequency of values in a specified column. Below is a detailed description of the updated script along with comments explaining each part of the code.
+This Node.js script is made to automatically find and process a CSV file in a specified directory, providing insights about the frequency of values in a specified column. Below is a detailed description of the updated script along with comments explaining each part of the code.
 
 ## Script Description
 
